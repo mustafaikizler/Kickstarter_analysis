@@ -2,7 +2,7 @@
 This Analysis contains informations about campaigns, relation between them, goals, pledged amounts, their success and fails, also reasons of theese result from statistical aspect.
 ---
 
-![](C:\Users\ikizl\OneDrive\Desktop\masaustu\xxxx.png)
+![This is and Absolutely an image](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 Performing analysis on Kickstarter data to uncover trends
 
 
